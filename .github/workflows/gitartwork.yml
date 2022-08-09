@@ -15,4 +15,4 @@
             user_name: kull-boii
             # Text on contribution graph 
             text: AADI
-       - uses: kull-boii/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
