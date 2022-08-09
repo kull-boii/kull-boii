@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React and Nodejs**
 
-- 📝 I regularly write articles on System Design [https://twitter.com/ManchekarAadi](https://twitter.com/ManchekarAadi)
+- 📝 I regularly tweet on System Design [@ManchekarAadi](https://twitter.com/ManchekarAadi)
 
 - 💬 Ask me about **React, Data structures and algorithms, System Design**
 
 - 📫 How to reach me **aadimanchekar030102@gmail.com**
 
-- 📄 CV: [https://drive.google.com/file/d/1P6gHytaMZHb8cIy2GmYkvX0zmF5DddLF/view?usp=sharing](https://drive.google.com/file/d/1P6gHytaMZHb8cIy2GmYkvX0zmF5DddLF/view?usp=sharing)
+- 📄 CV: [Link](https://drive.google.com/file/d/1P6gHytaMZHb8cIy2GmYkvX0zmF5DddLF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
