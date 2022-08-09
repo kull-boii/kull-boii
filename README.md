@@ -22,3 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kull-boii&" alt="kull-boii" /></p>
 
+<h3 align="center">Watch my contribution graph getting eaten by a snake</h3>
+
+![snake gif](https://github.com/kull-boii/kull-boii/blob/output/github-contribution-grid-snake.gif)
+
