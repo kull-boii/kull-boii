@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/manchekaraadi" target="blank"><img src="https://img.shields.io/twitter/follow/manchekaraadi?logo=twitter&style=for-the-badge" alt="manchekaraadi" /></a> </p>
 
+![gitartwork](gitartwork.svg)
+
 - 💻 Actively looking for SDE-1 jobs
 
 - 🌱 I’m currently learning **React and Nodejs**
