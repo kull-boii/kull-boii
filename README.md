@@ -5,9 +5,9 @@
 
 ![gitartwork](gitartwork.svg)
 
-- 💻 Actively looking for SDE-1 jobs
+- 💻 Intern at HP Enterprises
 
-- 🌱 I’m currently learning **React and Nodejs**
+- 🌱 I’m currently learning **Distributed systems and AWS**
 
 - 📝 I regularly tweet on System Design [@ManchekarAadi](https://twitter.com/ManchekarAadi)
 
