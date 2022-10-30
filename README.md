@@ -24,6 +24,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kull-boii&" alt="kull-boii" /></p>
 
+
+<h3>Badges</h3>
+<!-- --- -->
+
+[![@kullboii's Holopin board](https://holopin.me/kullboii)](https://holopin.io/@kullboii)
+
+
+<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi) -->
+
 <h3>Watch my contribution graph getting eaten by a snake</h3>
 
 ![snake gif](https://github.com/kull-boii/kull-boii/blob/output/github-contribution-grid-snake.gif)
